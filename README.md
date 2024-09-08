@@ -1,4 +1,4 @@
-## Eaí, eu sou o André Gustavo 👋
+## Hi, I'm André Gustavo 👋
 
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=andregustavo1&show_icons=true&theme=dark)
 
