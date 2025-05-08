@@ -1,5 +1,3 @@
-## Hi, I'm André Gustavo 👋
-
 <p align="center">
   <b>Desenvolvedor de automações com IA</b> | React & Tailwind | Design Gráfico
 </p>
