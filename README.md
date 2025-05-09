@@ -1,13 +1,13 @@
 <p>
-  <b>Desenvolvedor de automações com IA</b>
+  <b>AI Automation Developer</b>
 </p>
 
-🎯 Sou um desenvolvedor focado em criar soluções automatizadas com IA para produtividade, marketing, e-commerce, scraping e outros. Atualmente trabalho com:
-- 🔧 Automações usando n8n, OpenAI API, APIs REST
-- 💻 Interfaces frontend em React + Tailwind
-- 🎨 Experiência prévia com design gráfico
+🎯  I’m a developer focused on building AI-powered automation solutions for productivity, marketing, e-commerce, scraping, and more. I currently work with:
+- 🔧 Automations using n8n, OpenAI API, and REST APIs
+- 💻 Frontend interfaces with React + Tailwind CSS
+- 🎨 Experience in graphic design
 
-### ⚙️ Tecnologias e Ferramentas
+### ⚙️ Technologies & Tools
 
 ![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
