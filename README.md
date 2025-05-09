@@ -3,7 +3,7 @@
 </p>
 
 🎯 Sou um desenvolvedor focado em criar soluções automatizadas com IA para produtividade, marketing, e-commerce, scraping e outros. Atualmente trabalho com:
-- 🔧 Automações usando n8n, OpenAI API, Puppeteer, APIs REST
+- 🔧 Automações usando n8n, OpenAI API, APIs REST
 - 💻 Interfaces frontend em React + Tailwind
 - 🎨 Experiência prévia com design gráfico
 
