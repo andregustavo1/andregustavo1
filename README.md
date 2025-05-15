@@ -1,5 +1,5 @@
 <p>
-  <b>AI Automation Developer</b>
+  <b>AI Engineer</b>
 </p>
 
 🎯  I’m a developer focused on building AI-powered automation solutions for productivity, marketing, e-commerce, scraping, and more. I currently work with:
