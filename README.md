@@ -3,7 +3,7 @@
 </p>
 
 🎯  I’m a developer focused on building AI-powered automation solutions for productivity, marketing, e-commerce, scraping, and more. I currently work with:
-- 🔧 Automations using n8n, OpenAI API, and REST APIs
+- 🔧 AI Automations using n8n.
 - 💻 Frontend interfaces with React + Tailwind CSS
 - 🎨 Experience in graphic design
 
