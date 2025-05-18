@@ -4,7 +4,7 @@
 
 🎯  I’m a developer focused on building solutions. I currently work with:
 - 🔧 AI Automations using n8n.
-- 💻 Frontend interfaces with React + Tailwind CSS
+- 💻 Web application development using React and Tailwind CSS
 - 🎨 Experience in graphic design
 
 ### ⚙️ Technologies & Tools
