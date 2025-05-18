@@ -2,7 +2,7 @@
   <b>Developer</b>
 </p>
 
-🎯  I’m a developer focused on building solutions for productivity, marketing, e-commerce, scraping, and more. I currently work with:
+🎯  I’m a developer focused on building solutions. I currently work with:
 - 🔧 AI Automations using n8n.
 - 💻 Frontend interfaces with React + Tailwind CSS
 - 🎨 Experience in graphic design
