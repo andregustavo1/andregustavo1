@@ -3,7 +3,7 @@
 </p>
 
 🎯  I’m a developer focused on building solutions. I currently work with:
-- 🔧 AI Automations using n8n.
+- 🔧 AI Automations using n8n + APIs.
 - 💻 Web application development using React and Tailwind CSS
 - 🎨 Experience in graphic design
 
