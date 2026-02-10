@@ -1,6 +1,8 @@
 ![Metrics](./github-metrics.svg)
 
-## 🚀 Technologies & Topics
+<p style="font-size: 13px; color: #8b949e;">
+  🚀 <strong>Technologies & Topics</strong>
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
