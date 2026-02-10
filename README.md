@@ -1,7 +1,7 @@
 ![Metrics](./github-metrics.svg)
 
-<p style="font-size: 13px; color: #8b949e;">
-  🚀 <strong>Technologies & Topics</strong>
+<p style="font-size: 13px; color: #8b949e; display: flex; align-items: center; gap: 6px;">
+  <strong>Technologies and topics</strong>
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
